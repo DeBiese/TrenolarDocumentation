@@ -14,7 +14,7 @@
 ___
 
 # Intro
-Creating a phased training target on the Polar Flow website in such a way that your Polar watch gives you a warning when running too slow/fast requires you to visite multiple pages on the [Polar Flow](https://flow.polar.com/diary) website.
+Creating a phased training target on the Polar Flow website in such a way that your Polar watch gives you a warning when running too slow/fast requires you to visit multiple pages on the [Polar Flow](https://flow.polar.com/diary) website.
 
 When using a training app like [Trenara](https://www.trenara.com/) which gives you different paces to run throughout your training week, you would spend quite some time on the [Polar Flow](https://flow.polar.com/diary) website planning each training.
 
