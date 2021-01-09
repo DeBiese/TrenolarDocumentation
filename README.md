@@ -13,7 +13,8 @@
 
 ___
 
-# Intro
+([Go to top](#content))
+# Intro 
 Creating a phased training target on the Polar Flow website in such a way that your Polar watch gives you a warning when running too slow/fast requires you to visit multiple pages on the [Polar Flow](https://flow.polar.com/diary) website.
 
 When using a training app like [Trenara](https://www.trenara.com/) which gives you different paces to run throughout your training week, you would spend quite some time on the [Polar Flow](https://flow.polar.com/diary) website planning each training.
@@ -42,6 +43,7 @@ If you prefer a warning when going too slow, you can use all zones 1 through 5 a
 **NOTE:** 
 _If a Polar dev stumbles upon this page. Please consider adding the option of creating phased training targets with a free to set pace for each zone with a possible margin for going too fast/slow in each phase and have the sports watch warn on those margins. Reporting on a training can still use the 5 pace zones to show in which zones a training is run. But runners wouldn't be limitted to 5 paces for receiving feedback during a run._
 
+([Go to top](#content))
 # 2. Polar
 ## 2.1. Creating a phased training target
 ![Polar Flow navigation header](/images/polar/p001.png)
@@ -80,6 +82,7 @@ _If a Polar dev stumbles upon this page. Please consider adding the option of cr
 
 ![Polar Flow interval training](/images/polar/p009.png)
 
+([Go to top](#content))
 # 3. Trenolar
 You can find Trenolar in the [Chrome Webstore](https://chrome.google.com/webstore/detail/trenolar/lgmpflmiiihefineimpboladhpbeidli).
 
@@ -191,6 +194,7 @@ Your training will be in zones 1 through 5.
 |05:30|2|05:30|05:30|
 |06:00|1|06:00|06:00|
 
+([Go to top](#content))
 # 4. Trenolar Export
 The Trenolar Export site allows you to create a complete training session on 1 page.
 
