@@ -1,15 +1,15 @@
 # Content
-* [1. Intro](#1.-intro)
-* [2. Polar](#2.-polar)
-  * [2.1. Creating a phased training target](#2.1.-Creating-a-phased-training-target)
-* [3. Trenolar](#3.-trenolar)
-  * [3.1. Configure](#3.1.-configure)
-  * [3.2. Trenara](#3.2.-trenara)
-  * [3.3. Change Pace Zones](#3.3.-change-pace-zones)
-  * [3.4. How Trenolar sets your paces](#3.4.-How-Trenolar-sets-your-paces)
-* [4. Trenolar Export](#4.-trenolar-export)
-  * [4.1. Creating a phased training target](#4.1.-Creating-a-phased-training-target)
-  * [4.2. Create a list of training sessions](#4.2.-Create-a-list-of-training-sessions)
+* [1. Intro](#1-intro)
+* [2. Polar](#2-polar)
+  * [2.1. Creating a phased training target](#21-Creating-a-phased-training-target)
+* [3. Trenolar](#3-trenolar)
+  * [3.1. Configure](#31-configure)
+  * [3.2. Trenara](#32-trenara)
+  * [3.3. Change Pace Zones](#33-change-pace-zones)
+  * [3.4. How Trenolar sets your paces](#34-How-Trenolar-sets-your-paces)
+* [4. Trenolar Export](#4-trenolar-export)
+  * [4.1. Creating a phased training target](#41-Creating-a-phased-training-target)
+  * [4.2. Create a list of training sessions](#42-Create-a-list-of-training-sessions)
 
 ___
 
