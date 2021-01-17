@@ -226,6 +226,8 @@ All in all a more user friendly way of creating a training.
 
 ![Trenolar Export finished phases](/images/trenolar-export/te006.png)
 
+**NOTE:** _Make use of the sites functionality to repeat phases instead of adding copies of each phase (which is also possible). Using the repeat functionality will result in your Polar watch telling you which repitition you are running. (e.g. Rest 3/5)_
+
 6. Export the training session
 
 ![Trenolar Export export session](/images/trenolar-export/te007.png)
