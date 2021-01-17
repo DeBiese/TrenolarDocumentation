@@ -233,4 +233,32 @@ All in all a more user friendly way of creating a training.
 ![Trenolar Export export session](/images/trenolar-export/te007.png)
 
 ## 4.2. Create a list of training sessions
-_Coming soon_
+
+[Trenolar Export](https://trenolar.azurewebsites.net) allows you to create a list of training sessions to export in one file. Trenolar allows for importing such a file with multiple training sessions **ONLY WHEN EACH SESSION IN THAT FILE HAS THE EXACT SAME PACES DEFINED**!
+
+The limitation on the paces is based on the limitations of [Polar Flow](https://flow.polar.com/diary). It is not possible to store paces on a per training basis. You can create multiple training sessions on [Polar Flow](https://flow.polar.com/diary) and completely disrupt those by changing the paces set on the Sport Profile you selected for those sessions. Which is essentially what Trenolar does (changing the paces on your sport profile and adding a phased training target).
+
+The workaround for uploading multiple sessions at once, is careful planning. List your paces for 2 or more training sessions and try to find up to 4 (or 5) paces to set.
+The actual paces for your first training in the list should make it into to paces as-is. Paces for other training sessions that are not equal to those of training 1 should be interchangeable for those in training 1 without moving the pace zone they are in.
+
+An example:
+|Zone|Training 1|Training 2|Training 3|Training 4|Paces to set|
+|----|----------|----------|----------|----------|------------|
+|4|04:00||||04:00|
+|3||04:45|||04:45|
+|2|05:40|05:50|05:50||05:40|
+|1|06:10|06:00||06:20|06:10|
+
+Using the paces of column 'Paces to set' you can now plan 4 training sessions at once and import them on [Polar Flow](https://flow.polar.com/diary).
+
+The only thing left for you to do is **AFTER** each training update the paces where required. Using the 'Change Pace Zones' section of Trenolar.
+
+- Before Training 2: update 05:40 to 05:50 and 06:10 to 06:00
+- Before Training 3: no update
+- Before Training 4: update 06:00 to 06:20
+
+The 4 training sessions are imported using the 4 paces that are set. But as a result of careful planning, you can change the pace of 1 or more zones without ruining the next phased training that is already defined in your diary.
+
+**NOTE:** Don't forget to sync your watch after updating the paces.
+
+_More Coming soon_
